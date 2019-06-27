@@ -1,3 +1,3 @@
-create table if not exists cliente(idCliente int primary key auto_increment, nome varchar(45),
-tipo varchar(45), cpf varchar(45), rg varchar(45), dataDeNasc date, endereco varchar(45),
-cep varchar(45), telefone varchar(45), ddd varchar(45), email varchar(120));
+create table if not exists cliente(idCliente int primary key auto_increment, nomeCliente varchar(45),
+tipoCliente varchar(45), cpfCliente varchar(45), rgCliente varchar(45), dataDeNascCliente date, enderecoCliente varchar(45),
+cepCliente varchar(45), telefoneCliente varchar(45), dddCliente varchar(45), emailCliente varchar(120));
