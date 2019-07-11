@@ -1,0 +1,1 @@
+update cliente set cliNome = 'Renan da Silva' where idCliente = 1;
