@@ -1,0 +1,1 @@
+delete from cliente where idCliente > 0;
