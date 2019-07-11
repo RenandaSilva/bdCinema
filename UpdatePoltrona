@@ -1,0 +1,1 @@
+update poltrona set polNome = "A2" where polCod = 1;
